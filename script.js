@@ -1,3 +1,5 @@
+// AUTHOR NAME: SAMEER DHANDE
+
 document.getElementById("generateBtn").addEventListener("click", function () {
   const length = parseInt(document.getElementById("length").value);
   const includeUpperCase = document.getElementById("upperCase").checked;
